@@ -5,7 +5,7 @@ Cipheros is a rudamentary way to encrypt and decrypt strings using a generated k
 
 ## Installation
 
-Clone the git repository to your PC and either edit and run main.py or implement the  class in your own code.
+Clone the git repository to your PC and either edit and run encryption.py or implement the  class in your own code. Make sure to install dependencies from requirements.txt
 # Examples
 
 U = Encryption()
